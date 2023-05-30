@@ -1,0 +1,23 @@
+to Run
+
+python3 aio.py
+
+
+or from windows cli run
+
+aio.exe
+
+
+put in my jnet test server if you want
+
+
+host is jnet.sytes.net
+port is 3312
+
+Update Link
+
+git clone https://github.com/jamieduk/Socket_Chat.git
+
+Check zip file for windows binary so you dont have to run from py
+
+
