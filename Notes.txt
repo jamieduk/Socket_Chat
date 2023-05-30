@@ -22,7 +22,7 @@ Check zip file for windows binary so you dont have to run from py
 
 Forum Link
 
-https://jnet.forumotion.com/t1986-chast-box-for-linux-and-windows-using-exe-or-python-3#3059
+https://jnet.forumotion.com/t1986-chat-box-for-linux-and-windows-using-exe-or-python-3#3059
 
 Main Site Link
 
